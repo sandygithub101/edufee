@@ -1,0 +1,10 @@
+{
+  "name": "fee-management-system",
+  "private": true,
+  "description": "Student & Semester-Wise Fee Management System (PHP 8+, MySQL 8+, HTML5, Bootstrap 5, CSS3, JS, AJAX)",
+  "scripts": {
+    "dev": "sh -c '/etc/init.d/mariadb status >/dev/null 2>&1 || /etc/init.d/mariadb start; php -S 0.0.0.0:3000'",
+    "start": "sh -c '/etc/init.d/mariadb status >/dev/null 2>&1 || /etc/init.d/mariadb start; php -S 0.0.0.0:3000'",
+    "build": "php test_app.php"
+  }
+}

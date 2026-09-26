@@ -1,0 +1,6 @@
+{
+  "name": "EduFee - Student & Semester-Wise Fee Management System",
+  "description": "A secure, responsive, database-driven Student and Semester-Wise Fee Management System built for PHP full stack practical technical assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
